@@ -24,9 +24,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class ConsumersPriceIndex {
 
-    //private static final Stirng TABLE_NAME = "${spring.table.name}";
-
-
     @Column
     private String Series_reference;
     @Column
